@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/home/franz/Documentos/ECLIPSE/Sistema Farmacia/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3989840371.index
+770843440.index
+40096638.index
+186066503.index
+3134045921.index
